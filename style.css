@@ -1,0 +1,12 @@
+.bouton {
+	display: flex;
+	justify-content: center;
+}
+
+button {
+	background-color: #000;
+	color: #fa6d62;
+	border-color: #000;
+	border-radius: 5px;
+	padding: 5px 5px;
+}
